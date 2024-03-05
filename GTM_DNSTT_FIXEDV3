@@ -14,38 +14,7 @@
 
 ## Your DNSTT Nameserver & your Domain `A` Record
 
-NS='sg1ray-dns.mainssh.com'
-NS1='nssshus2.blastvpn.store'
-NS2='nssshus3.blastvpn.store'
-NS3='nssshgerman1.blastvpn.store'
-NS4='nssshgerman2.blastvpn.store'
-NS5='nssshgerman3.blastvpn.store'
-NS6='nssshchina1.blastvpn.store'
-NS7='nssshchina2.blastvpn.store'
-NS8='nssshchina3.blastvpn.store'
-NS9='nssshca1.blastvpn.store'
-NS10='nssshca2.blastvpn.store'
-NS11='nssshca3.blastvpn.store'
-NS12='nssshsg1.blastvpn.store'
-NS13='nssshsg2.blastvpn.store'
-NS14='nssshsg3.blastvpn.store'
-NS15='nsnewsg1.blastvpn.store'
-NS16='nsnewsg2.blastvpn.store'
-NS17='nsnewsg3.blastvpn.store'
-NS18='nsnewsg4.blastvpn.store'
-NS19='nsnewsg5.blastvpn.store'
-NS20='nsnewsg6.blastvpn.store'
-NS21='nsnewsg7.blastvpn.store'
-NS22='nsnewsg8.blastvpn.store'
-NS23='nsnewsg9.blastvpn.store'
-NS24='nsnewsg10.blastvpn.store'
-NS25='dns2.xquic.site'
-NS26='ns.pinaybeatriz.ml'
-NS27='3ns.jimfree.net'
-NS28='5ns.jimfree.net'
-NS29='6ns.jimfree.net'
-A='sg1dns.mainssh.xyz'
-
+NS=`2d.evz.to`
 ## Repeat dig cmd loop time (seconds) (positive interger only)
 
 LOOP_DELAY=0
@@ -54,7 +23,7 @@ LOOP_DELAY=0
 
 ## Add your DNS here
 
-declare -a HOSTS=('124.6.181.20')
+declare -a HOSTS=('124.6.181.44')
 
 
 
